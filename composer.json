@@ -30,13 +30,5 @@
         "psr-4": {
             "Adexos\\GraphqlCors\\": ""
         }
-    },
-    "extra": {
-        "map": [
-            [
-                "*",
-                "Adexos/GraphqlCors"
-            ]
-        ]
     }
 }
